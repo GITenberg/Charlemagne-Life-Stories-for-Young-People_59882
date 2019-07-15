@@ -1,5 +1,8 @@
 _repo: Charlemagne-Life-Stories-for-Young-People_59882
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 59882-h/images/cover.jpg
 creator:
   authors:
   - agent_name: Schmidt, Ferdinand
@@ -15,6 +18,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/5760
     wikipedia: https://en.wikipedia.org/wiki/George_Putnam_Upton
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/59882#Charlemagne-Life-Stories-for-Young-People
 gutenberg_issued: '2019-07-10'
 gutenberg_type: Text
 identifiers:
