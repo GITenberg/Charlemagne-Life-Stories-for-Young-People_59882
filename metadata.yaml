@@ -1,0 +1,31 @@
+_repo: Charlemagne-Life-Stories-for-Young-People_59882
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Schmidt, Ferdinand
+    birthdate: 1816
+    deathdate: 1890
+    gutenberg_agent_id: '50540'
+    url: http://www.gutenberg.org/2009/agents/50540
+  - agent_name: Upton, George P. (George Putnam)
+    alias: Upton, George Putnam
+    birthdate: 1834
+    deathdate: 1919
+    gutenberg_agent_id: '5760'
+    url: http://www.gutenberg.org/2009/agents/5760
+    wikipedia: https://en.wikipedia.org/wiki/George_Putnam_Upton
+description: ''
+gutenberg_issued: '2019-07-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '59882'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Charlemagne
+
+  Life Stories for Young People'
+url: http://www.gutenberg.org/ebooks/59882
